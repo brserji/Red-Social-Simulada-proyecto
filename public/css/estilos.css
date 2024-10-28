@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    text-align: center;
+   }
+   h1 {
+    color: #333;
+   }
+   #usuarios, #publicaciones {
+    margin: 20px auto;
+    padding: 10px;
+    border: 1px solid #ddd;
+    background-color: #fff;
+    display: inline-block;
+    width: 80%;
+    text-align: left;
+   }
+   button {
+    padding: 10px 20px;
+    margin: 10px;
+    border: none;
+    background-color: #5c6bc0;
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+   }
+   button:hover {
+    background-color: #3949ab;
+   }
